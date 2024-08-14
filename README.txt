@@ -1,3 +1,17 @@
+Details about the project:
+ - TypeScript
+ - Angular 12
+ - Bootstrap
+
+The project contains:
+- Authentification (Register / Login)
+- Standalone, Dynamic and Global Components with Data binding between them
+- Forms with HTTP Requests
+- Pages with routing and middleware
+- Directives, Services, Dependency injection, Observables and Pipes
+- NgRx for State Management
+- Unit Tests
+
 Login / Sign-up Page:
 
 ![Login](https://user-images.githubusercontent.com/84518155/169805747-02ddd6bf-a203-4ab1-9cef-e3db8c9227c3.jpeg)
